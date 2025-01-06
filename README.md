@@ -7,15 +7,6 @@ Experienced in designing and implementing scalable web applications with strong 
 
 ---
 
-## 🎓 Education
-- **MS, Data Science**, University of British Columbia  
-  _Expected Graduation: June 2025_
-
-- **HBSc, Computer Science & Neuroscience**, University of Toronto  
-  _Graduation: June 2024_
-
----
-
 ## 🛠️ Technical Skills
 
 ### **Programming Languages**
@@ -71,6 +62,16 @@ _Toronto, ON, Canada_
 - Created data preprocessing pipelines using **Python**, **Bash**, and **C++**, reducing manual workload by **50%**.
 - Streamlined healthcare administration processes by managing **MySQL databases** and automating data processing tasks, reducing admin work by **30%**.
 
+
+---
+
+## 🎓 Education
+- **MS, Data Science**, University of British Columbia  
+  _Expected Graduation: June 2025_
+
+- **HBSc, Computer Science & Neuroscience**, University of Toronto  
+  _Graduation: June 2024_
+  
 ---
 
 ## 🌐 Web Development Projects
