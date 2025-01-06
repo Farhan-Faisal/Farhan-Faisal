@@ -1,9 +1,7 @@
 # Hi there 👋 I'm Farhan!
 
-![Profile Views](https://komarev.com/ghpvc/?username=Farhan-Faisal&color=blue)
-
 ## 👨‍💻 Summary
-Detail-oriented developer with expertise in Python, R, SQL, and JavaScript, specializing in Machine/Deep Learning, full-stack development, and cloud technologies. Proven track record of building scalable, high-performance solutions using AWS, Azure, and GCP, and leveraging AI-driven tools for actionable insights.
+I am a detail-oriented developer with expertise in Python, R, SQL, and JavaScript, specializing in Machine/Deep Learning, full-stack development, and cloud technologies. Proven track record of building scalable, high-performance solutions using AWS, Azure, and GCP, and leveraging AI-driven tools for actionable insights.
 
 Experienced in designing and implementing scalable web applications with strong proficiency in JavaScript, React, Node.js, Java, and SQL. Skilled at streamlining deployment processes through CI/CD pipelines, enhancing user experiences through robust testing, and optimizing cloud-based applications for performance and reliability.
 
